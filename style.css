@@ -25,12 +25,12 @@ body {
   color: rgb(189, 123, 0);
   font-size: 40px;
 }
-.img-container{
+.container{
     background-color: rgb(236, 235, 235);
     padding: 16px;
     margin-bottom: 20px;
 }
-.headlines{
+.navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
