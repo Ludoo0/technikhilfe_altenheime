@@ -6,6 +6,7 @@ body {
 }
 .laptop {
   width: 100%;
+  /* FIXME:Image is to big */
 }
 .hl1 {
   color: black;
