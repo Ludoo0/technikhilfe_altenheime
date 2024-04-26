@@ -1,0 +1,8 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  .company{
+      width: 90%;
+      object-fit: cover;
+      height: 1000px;
+  }
